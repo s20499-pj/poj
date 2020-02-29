@@ -1,3 +1,7 @@
+/*
+Summary: Zadanie 3 PPM kalkulator dziennego zapotrzebowania kalorycznego
+Author: Tomasz Baj s20499
+ */
 import java.util.Scanner;
 
 public class Zadanie3
@@ -22,7 +26,3 @@ public class Zadanie3
         System.out.println("Do zapewnienia podstawowej przemiany materii potrzebujesz: " + ppm);
     }
 }
-/*
-Summary: Zadanie 3 PPM kalkulator dziennego zapotrzebowania kalorycznego
-Author: Tomasz Baj s20499
- */

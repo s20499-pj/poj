@@ -1,3 +1,7 @@
+/*
+Summary: Zadanie 1 ASCII flagi
+Author: Tomasz Baj s20499
+ */
 import java.util.Scanner;
 
 public class Zadanie1
@@ -60,7 +64,3 @@ public class Zadanie1
         }
     }
 }
-/*
-Summary: Zadanie 1 ASCII flagi
-Author: Tomasz Baj s20499
- */

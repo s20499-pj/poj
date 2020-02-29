@@ -1,3 +1,7 @@
+/*
+Summary: Zadanie 2 BMI
+Author: Tomasz Baj s20499
+ */
 import java.util.Scanner;
 
 public class Zadanie2
@@ -16,7 +20,3 @@ public class Zadanie2
         else System.out.println("otyłość");
     }
 }
-/*
-Summary: Zadanie 2 BMI
-Author: Tomasz Baj s20499
- */

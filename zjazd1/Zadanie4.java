@@ -1,3 +1,7 @@
+/*
+Summary: Zadanie 4 piramida z literek
+Author: Tomasz Baj s20499
+ */
 import java.util.Scanner;
 
 public class Zadanie4
@@ -27,7 +31,3 @@ public class Zadanie4
         }
     }
 }
-/*
-Summary: Zadanie 4 piramida z literek
-Author: Tomasz Baj s20499
- */
