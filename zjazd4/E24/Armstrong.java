@@ -1,3 +1,8 @@
+/**
+ *Summary: Exercise 24 Armstrong
+ *Author: Tomasz Baj s20499
+ */
+
 package E24;
 
 import java.util.Scanner;
