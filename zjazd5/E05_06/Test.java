@@ -1,3 +1,8 @@
+/**
+ *Summary: Exercise 05_06
+ *Author: Tomasz Baj s20499
+ */
+
 package E05_06;
 
 import java.lang.reflect.Array;
