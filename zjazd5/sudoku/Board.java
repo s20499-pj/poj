@@ -1,7 +1,9 @@
-package sudoku;
+/**
+ *Summary: Sudoku
+ *Author: Tomasz Baj s20499
+ */
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package sudoku;
 
 public class Board {
     private int emptyCell = 0;

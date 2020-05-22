@@ -1,3 +1,8 @@
+/**
+ *Summary: Sudoku
+ *Author: Tomasz Baj s20499
+ */
+
 package sudoku;
 
 public class Main {
@@ -38,21 +43,13 @@ public class Main {
                 {0, 3, 0, 0, 0, 2, 0, 0, 0},
                 {4, 9, 0, 0, 5, 0, 0, 0, 3}};
 
-        /*Board bad = new Board();
-        bad.print();
-        bad.check();*/
-
         int cykle = 0;
-        for (int a = 0; a < 10000; a++) {
+        for (int a = 0; a < 1000; a++) {
             Board board = new Board(example2);
             board.fix();
             //board.print();
             if (board.check()) cykle++;
         }
         System.out.println(cykle);
-
-        //board1.print();
-        //board1.check();
-
     }
 }
